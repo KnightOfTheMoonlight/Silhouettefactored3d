@@ -15,6 +15,12 @@ research, please consider citing:
 }
 ```
 
+## demo gif compare vs factored3d
+
+* factored3d
+<img src="factored3d.gif">
+* ours
+<img src="ours.gif">
 
 ## Experiments
 
