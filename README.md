@@ -14,3 +14,9 @@ research, please consider citing:
 \  year={2019}
 }
 ```
+
+
+## Experiments
+
+* [Silhouette Generation](./doc/silhouette_generation_guide.md): Instructions to generate amodal silhouette.
+* [Final Result Visualization](./doc/final_result_visualization_guide.md): Instructions to visualize the final result.
