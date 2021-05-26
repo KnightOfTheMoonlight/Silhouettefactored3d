@@ -24,5 +24,7 @@ research, please consider citing:
 
 ## Experiments
 
+All rendering are based on blender engine 2.79. [notice: 2.80 version is a whole different story]
+* [blender_setup](./doc/blender_setup.md): Instructions to setup blender environment.
 * [Silhouette Generation](./doc/silhouette_generation_guide.md): Instructions to generate amodal silhouette.
 * [Final Result Visualization](./doc/final_result_visualization_guide.md): Instructions to visualize the final result.
